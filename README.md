@@ -1,2 +1,2 @@
 # fraud-detection-analytics
-Customer segmentation and fraud detection strategy for UBL credit card transactions using RFM analysis, K-means clustering, conjoint analysis, and PCA — built in R with a Python dashboard.
+End-to-end fraud detection pipeline on the ULB Credit Card Fraud dataset. Compares Logistic Regression, Random Forest, and XGBoost under severe class imbalance (0.172% fraud) using SMOTE, with threshold sensitivity analysis and SHAP interpretability. MSc Business Analytics dissertation, Queen's Business School.
